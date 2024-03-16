@@ -9,7 +9,7 @@ Hey there! 👋 I'm Sonam, a passionate computer science enthusiast currently pu
 
 ### Competitive Programming
 I thrive on challenges, and competitive programming is where I test my mettle. Here's a snapshot of my achievements:
-- **CodeChef**: Achieved a maximum rating of 1750, tackling complex problems and sharpening my problem-solving skills.
-- **LeetCode**: Reached a rating of 1698, solving over 1200 questions across various platforms.
+- **CodeChef**: Achieved a maximum rating of 1801, tackling complex problems and sharpening my problem-solving skills.
+- **LeetCode**: Reached a rating of 1714, solving over 1200 questions across various platforms.
 
 Join me on this journey as we delve deeper into the exciting world of technology and problem-solving! 🚀 Let's connect and collaborate on innovative projects.
